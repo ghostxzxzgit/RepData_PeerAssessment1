@@ -169,4 +169,4 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 
 Why are the plots not showing up?
 FINAL PLOT : 
-[Final Graph](/PA1_template_files/figure-html/final graph type l-1.png)
+![Final Graph](/PA1_template_files/figure-html/final graph type l-1.png)
