@@ -166,3 +166,7 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
+
+Why are the plots not showing up?
+FINAL PLOT : 
+[Final Graph](/PA1_template_files/figure-html/final graph type l-1.png)
